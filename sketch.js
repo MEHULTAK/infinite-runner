@@ -85,7 +85,7 @@ function draw() {
         text("Press SHIFT to Machine gun blows",50,160)
         text("Press CTRL to Incrinate",50,180)
         text("press S to Start",50,200)
-        score.visible=false
+       
      genos1.visible=false
      genoswp.visible=true
      back.visible=false
